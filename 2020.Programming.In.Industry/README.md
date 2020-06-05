@@ -26,11 +26,19 @@ In this sub-section, we will cover rather technical aspects, trying to avoid peo
 
 Normally, in the department of computer science of universities, professors may tell you code readability is important in some classes (probably in "software engineering" classes).
 However, there are not so many chances to experience the need for readability (of your own codes) in course-work and even if you proceed to graduate schools, getting MS or PHD, in most cases, no one cares the code readability (or the code quality entirely).
-When you join a software developer team of more than just a few developers where you are required to read your collegues' codes and your collegues are required to read your codes, regardless of there are active code reviews or not, your code readability becomes suddenly important.
+When you join a software developer team of more than just a few developers where you are required to read your colleagues' codes and your colleagues are required to read your codes, regardless of there are active code reviews or not, your code readability becomes suddenly important.
 
 
 Readbility of your codes becomes important:
-- 
+  - In most sane software developer teams, code reviews are enforced. If your codes are not readable, your codes will not be accepted; thus, your contribution to the team will be negative; you've consumed others' time by your shitty code and your code is not accepted. You don't want to be in that position for long time unless you are looking for another job already.
+  - Your code may be maintained for several years. You won't be able to recall what you were thinking about when you wrote that damn code line. And that may give you a real trouble; e.g., you are required to fix that bug you've created 3 years ago within the next a few hours. Plus, you will be maintaining others and others will be maintaing yours, as well.
+
+Practicing higher readability:
+  - Follow the rule. (code style rules, the conventions or traditions of your colleagues, ...)
+  - Function and variable names should be meaningful and consistent while following the styling rules.
+  - Proper comments, when required. Do not write it excessively.
+  - Shorter functions, less complex logic (divide if it gets too complex, assign proper names for "sub" logic).
+  - 
 
 ### INFRASTRUCTURE (Build, Test, Integrate, Deploy)
 ### DEPLOYABILITY
