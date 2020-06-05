@@ -9,6 +9,7 @@ Note that we provide similar contents (with more contents but less organized) to
 # Disclaimer
 
 This article is based on very personal experiences, which is limited to a very small section (or department) of the author's empolyee, where there are more than tens of thousands software developers; thus, do not assume this as a textbook.
+I'll also try to be away from textbooks; I'll try to give something not in textbooks.
 
 
 # Instroduction
