@@ -1,0 +1,22 @@
+# Abstract
+
+# Instroduction
+
+
+
+# Main Topics
+
+READABILITY
+INFRASTRUCTURE (Build, Test, Integrate, Deploy)
+DEPLOYABILITY
+CROSS-PLATFORM
+PERFORMANCE (Latency, Bandwidth, Throughput, Accuracy, ...)
+RELIABILITY: EXCEPTION HANDLING
+MODULARITY
+REUSABILITY & EXPANDABILITY
+LICENSE / LEGAL ISSUES
+DEBUGGING
+PROFILING
+
+
+# Take away
